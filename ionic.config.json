@@ -1,0 +1,7 @@
+{
+  "name": "boticamobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
